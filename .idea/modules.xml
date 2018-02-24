@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Hackathon.iml" filepath="$PROJECT_DIR$/Hackathon.iml" />
       <module fileurl="file://C:\Users\Seri\AndroidStudioProjects\Hackathon\Hackathon.iml" filepath="C:\Users\Seri\AndroidStudioProjects\Hackathon\Hackathon.iml" />
+      <module fileurl="file://C:\Users\Laurentiu\AndroidStudioProjects\Hackathon\Hackathon.iml" filepath="C:\Users\Laurentiu\AndroidStudioProjects\Hackathon\Hackathon.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Laurentiu\AndroidStudioProjects\Hackathon\app\app.iml" filepath="C:\Users\Laurentiu\AndroidStudioProjects\Hackathon\app\app.iml" />
       <module fileurl="file://C:\Users\Seri\AndroidStudioProjects\Hackathon\app\app.iml" filepath="C:\Users\Seri\AndroidStudioProjects\Hackathon\app\app.iml" />
     </modules>
   </component>
