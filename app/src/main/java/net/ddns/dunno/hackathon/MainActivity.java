@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //ceva
         //pula moca
+        //destul de multa
     }
 }
