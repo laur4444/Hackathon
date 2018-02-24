@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
         //salata boef
         //oua umplute
         //pizza cu ananas
+        //laptop_commit
     }
 }
