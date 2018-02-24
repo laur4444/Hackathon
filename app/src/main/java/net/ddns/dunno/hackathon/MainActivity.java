@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         //pula moca
         //destul de multa
         //asd
+        //more smth
     }
 }
